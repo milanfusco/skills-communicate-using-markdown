@@ -11,3 +11,10 @@ int main(int argc, char* argv[]) {
   return 0;
 }
 ```
+
+## TODO List
+- [ ] Turn on GitHub Pages
+- [ ] Introduce myself to the world
+- [ ] Become a millionaire
+- [ ] Invent a bug that solves other bugs (recursive debugging worm)
+- [ ] Build resistance network for when ChatGPT becomes Skynet - _"Come with me if you want to live."_
